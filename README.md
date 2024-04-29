@@ -10,7 +10,7 @@ Customizable Divi child theme for Strangefrequency sites. This template is inten
 1. **Edit the Child Theme**:
    - Rename the plugin folder to the new theme's name.
    - Edit the style.css with the relevant information for the project.
-   - Add a 1200 x 900 file called "screenshot.png" that will serve as the theme's preview image.
+   - Save a 1200 x 900 file into the folder called "screenshot.png" that will serve as the theme's preview image.
    - Zip the plugin folder and upload it to WordPress as you would any other theme.
 
 2. **Activate the Child Theme**:
